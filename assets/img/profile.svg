@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="post_wrapp" width="88" height="88" rx="44" transform="translate(503 164)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="profile" transform="translate(-503 -164)" clip-path="url(#clip-path)">
+    <path id="Union_10" data-name="Union 10" d="M13451-8687a32,32,0,0,1,32-32,32,32,0,0,1,32,32,32,32,0,0,1-32,32A32,32,0,0,1,13451-8687Zm14-54a18,18,0,0,1,18-18,18,18,0,0,1,18,18,18,18,0,0,1-18,18A18,18,0,0,1,13465-8741Z" transform="translate(-12936 8941)" fill="#b2dffe" opacity="0.6"/>
+  </g>
+</svg>

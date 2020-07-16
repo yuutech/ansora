@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="387" height="286" viewBox="0 0 387 286">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_129" data-name="Rectangle 129" width="387" height="286" transform="translate(0.423 -82)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="footer_cloud" transform="translate(-0.423 82)" clip-path="url(#clip-path)">
+    <g id="Group_92" data-name="Group 92" transform="translate(27.982 5.46)">
+      <path id="Union_1" data-name="Union 1" d="M190.9,267.54a45.009,45.009,0,0,1-43.11-57.822H44.972a44.972,44.972,0,1,1,0-89.944H92.544a44.974,44.974,0,0,1,27.23-80.767h74.275A44.981,44.981,0,0,1,238.63,0H568.121a44.973,44.973,0,0,1,0,89.945H493.845a44.98,44.98,0,0,1-44.58,39.006h-3.517a45.041,45.041,0,0,1,15.88,48.644H520.4a44.973,44.973,0,0,1,0,89.945Z" fill="#00389a"/>
+    </g>
+  </g>
+</svg>

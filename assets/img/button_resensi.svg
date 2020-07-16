@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74" height="22" viewBox="0 0 74 22">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6bc9"/>
+      <stop offset="1" stop-color="#7500ce"/>
+    </linearGradient>
+  </defs>
+  <rect id="button_resensi" width="74" height="22" rx="11" fill="url(#linear-gradient)"/>
+</svg>
